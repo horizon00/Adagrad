@@ -1,0 +1,2 @@
+# Adagrad
+adgrad optimizer
